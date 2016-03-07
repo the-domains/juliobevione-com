@@ -1,14 +1,28 @@
+name: Juliobevione.com
+favicon: null
 layout_spectrum: 0.849087
+typography_spectrum: 0.320623
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7476344
-  lightness: 0.3914329
-  brandStrength: 0.9355329
   brandColors:
     - '#FFFFFF'
     - '#5D347A'
     - '#12A9C6'
     - '#AE98BC'
     - '#D6CCDD'
+  brandStrength: 0.9355329
+  lightness: 0.3914329
+  saturation: 0.7476344
   rhythmicContrast: 0.8383575
-typography_spectrum: 0.320623
-name: Juliobevione.com
+purpose: []
