@@ -1,7 +1,7 @@
 name: Juliobevione.com
 favicon: null
-layout_spectrum: 0.849087
-typography_spectrum: 0.320623
+layout_spectrum: 0.83103
+typography_spectrum: 0.45066
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#12A9C6'
     - '#AE98BC'
     - '#D6CCDD'
-  brandStrength: 0.9355329
+  brandStrength: 0.9375
   lightness: 0.3914329
   saturation: 0.7476344
   rhythmicContrast: 0.8383575
