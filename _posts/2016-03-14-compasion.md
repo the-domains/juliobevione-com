@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Confieso que la compasión es mi gran desafío pendiente en el aprendizaje de esta experiencia humana.
-datePublished: '2016-03-14T12:52:20.147Z'
-dateModified: '2016-03-14T12:51:46.464Z'
+description: 'Entiendo que la compasión es el mayor acto de humildad que podemos alcanzar, donde nos liberamos del orgullo egoísta que nos hace ver diferentes de los demás, y donde nos atrevemos a descubrir la única verdad suprema: todos somos iguales.'
+datePublished: '2016-03-14T13:02:34.320Z'
+dateModified: '2016-03-14T13:02:18.221Z'
 title: Compasión
 author: []
 authors: []
@@ -22,7 +22,7 @@ url: compasion/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a2e4c18-ca6d-47e3-9beb-a571413da7eb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/114d5659-fb21-46f6-a1df-3201118adfb0.jpg)
 
 Confieso que la compasión es mi gran desafío pendiente en el aprendizaje de esta experiencia humana.
 
