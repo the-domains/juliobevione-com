@@ -4,8 +4,15 @@
         <description><![CDATA[Juliobevione.com]]></description>
         <link>https://thegrid.ai/juliobevione-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 13:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 13:28:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/juliobevione-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Enojo]]></title>
+            <description><![CDATA[<article><h1>Enojo</h1><p>¿Con quién te has enojado hoy?</p></article>]]></description>
+            <link>https://thegrid.ai/juliobevione-com/enojo/index.html</link>
+            <guid isPermaLink="false">5e3383ab-3940-412d-9010-02fc94de9217</guid>
+            <pubDate>Mon, 14 Mar 2016 13:28:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Excusas]]></title>
             <description><![CDATA[<article><h1>Excusas</h1><p>Ya no dudas en tu propósito de encontrar la paz, cada día, en cada encuentro. Pero aún piensas que algo te lo impide.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/juliobevione-com/identidad-dios/index.html</link>
             <guid isPermaLink="false">b7111cb5-d222-4658-bfd5-3df272f615b7</guid>
             <pubDate>Mon, 14 Mar 2016 13:06:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Compasión]]></title>
-            <description><![CDATA[<article><h1>Compasión</h1><p>Confieso que la compasión es mi gran desafío pendiente en el aprendizaje de esta experiencia humana.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddf96e392fda8ba28e7b14846dbfe72743811a61.jpg"></article>]]></description>
-            <link>https://thegrid.ai/juliobevione-com/compasion/index.html</link>
-            <guid isPermaLink="false">1779f086-1c23-4d83-96c3-4ecdb8206043</guid>
-            <pubDate>Mon, 14 Mar 2016 13:02:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
