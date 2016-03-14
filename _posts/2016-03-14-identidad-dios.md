@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'En nuestra vida moderna, la necesidad de poder controlar todo lo que nos pasa ha hecho que la incertidumbre sea una amenaza para nuestra nuestra estabilidad. '
-datePublished: '2016-03-14T13:04:17.706Z'
-dateModified: '2016-03-14T13:04:04.515Z'
-title: 'Identidad: Dios'
+description: "En nuestra vida moderna, la necesidad de poder controlar todo lo que nos pasa ha hecho que la incertidumbre sea una amenaza para nuestra nuestra estabilidad.\_"
+datePublished: '2016-03-14T13:06:29.788Z'
+dateModified: '2016-03-14T13:06:12.294Z'
+title: Respira...
 author: []
+sourcePath: _posts/2016-03-14-identidad-dios.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-identidad-dios.md
-published: true
 url: identidad-dios/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43e30f62-4326-4f23-9ab5-504ea03cf59e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4f89aca-6002-4fc0-8932-e90beae2ce18.jpg)
 
 En nuestra vida moderna, la necesidad de poder controlar todo lo que nos pasa ha hecho que la incertidumbre sea una amenaza para nuestra nuestra estabilidad. 
 
