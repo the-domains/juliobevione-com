@@ -4,8 +4,15 @@
         <description><![CDATA[Juliobevione.com]]></description>
         <link>https://thegrid.ai/juliobevione-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 13:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 13:25:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/juliobevione-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Desapego]]></title>
+            <description><![CDATA[<article><h1>Desapego</h1><p>Vives apegado a aquello que crees imprescindible o que su ausencia significaría una amenaza a tu bienestar.</p></article>]]></description>
+            <link>https://thegrid.ai/juliobevione-com/desapego/index.html</link>
+            <guid isPermaLink="false">fbbe7973-1504-400f-aad1-8555d2a6a6b5</guid>
+            <pubDate>Mon, 14 Mar 2016 13:25:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Silencio]]></title>
             <description><![CDATA[<article><h1>Silencio</h1><p>Todas las religiones y caminos espirituales invitan al silencio.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/juliobevione-com/identidad-dios/index.html</link>
             <guid isPermaLink="false">988c570c-288b-4634-aa4b-b70271cdf2a2</guid>
             <pubDate>Mon, 14 Mar 2016 12:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Equilibrio, nuestro gran desafío]]></title>
-            <description><![CDATA[<article><h1>Equilibrio, nuestro gran desafío</h1><p>¿Lo externo o lo interno? Este parece ser uno de nuestros dilemas en el camino espiritual. ¿Debo renunciar a las cosas materiales y al mundo externo?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55eaa0af13ab56eb98ed625b402763436c0e5836.jpg"></article>]]></description>
-            <link>https://thegrid.ai/juliobevione-com/equilibrio-nuestro-gran-desafio/index.html</link>
-            <guid isPermaLink="false">292661c5-a520-4a67-bfd0-459917c9c674</guid>
-            <pubDate>Mon, 07 Mar 2016 13:14:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
