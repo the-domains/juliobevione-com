@@ -4,8 +4,15 @@
         <description><![CDATA[Juliobevione.com]]></description>
         <link>https://thegrid.ai/juliobevione-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 13:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 13:29:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/juliobevione-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La noche del alma]]></title>
+            <description><![CDATA[<article><h1>La noche del alma</h1><p>Esta semana, desde la portada de la revista Time, una religiosa nos mira con ojos perdidos. En una investigación de la publicación se dan a conocer las cartas que esta monja había escrito a confesores y otros religiosos, hablando de su crisis de fe hasta la falta de amor que la mantuvieron con una sensación de vacío por años.</p></article>]]></description>
+            <link>https://thegrid.ai/juliobevione-com/la-noche-del-alma/index.html</link>
+            <guid isPermaLink="false">cc5f24d3-3a44-4770-b5b2-3af7e4bedf81</guid>
+            <pubDate>Mon, 14 Mar 2016 13:29:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Enojo]]></title>
             <description><![CDATA[<article><h1>Enojo</h1><p>¿Con quién te has enojado hoy?</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/juliobevione-com/ahora/index.html</link>
             <guid isPermaLink="false">776c01b5-1b19-4db0-91c0-0e4c9571a007</guid>
             <pubDate>Mon, 14 Mar 2016 13:09:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Respira...]]></title>
-            <description><![CDATA[<article><h1>Respira...</h1><p>En nuestra vida moderna, la necesidad de poder controlar todo lo que nos pasa ha hecho que la incertidumbre sea una amenaza para nuestra nuestra estabilidad. </p></article>]]></description>
-            <link>https://thegrid.ai/juliobevione-com/identidad-dios/index.html</link>
-            <guid isPermaLink="false">b7111cb5-d222-4658-bfd5-3df272f615b7</guid>
-            <pubDate>Mon, 14 Mar 2016 13:06:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
